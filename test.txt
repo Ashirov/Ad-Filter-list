@@ -1,0 +1,55 @@
+
+# Good: 0.0.0.0 doubleclick.net$third-party
+# Bad: /banner.jpg (should be in general_url.txt)
+# Bad: 0.0.0.0 adssubdomain.legitwebsite.com (should be in adservers_firstparty.txt)
+#
+#
+#
+0.0.0.0 hhtpcsgl.com
+0.0.0.0 odhrnejegx.com
+0.0.0.0 afgfjdivrf.com
+0.0.0.0 eezoulru.com
+0.0.0.0 fxhpaoxqyajvmdg.
+0.0.0.0 rgfftupf.
+0.0.0.0 thatsouh.com
+0.0.0.0 fmnybwjmkfpoqdm.xyz
+0.0.0.0 hqlgixkuocvwhu.top
+0.0.0.0 hxmvequsbyv.xyz
+0.0.0.0 pakuvcgjdpqjjs.xyz
+0.0.0.0 qyysdkjcf.xyz
+0.0.0.0 vclpwxgae.xyz
+0.0.0.0 yjgghmmnoykj.top
+0.0.0.0 astcarbinkom.com
+0.0.0.0 nxwipuoybxc.com
+0.0.0.0 cwdlynbxh.top
+0.0.0.0 eblytohxbgvxt.xyz
+0.0.0.0 hocbdmaexoq.top
+0.0.0.0 nxwipuoybxc.top
+0.0.0.0 fmvliiinznfso.com
+0.0.0.0 zusepe.xyz
+0.0.0.0 untvwqvrk.com
+0.0.0.0 tomqcaljnjvge.com
+0.0.0.0 knifecontributionproposition.com
+0.0.0.0 fkxgmbooixbugd.com
+0.0.0.0 stbvip.net
+0.0.0.0 cdn.applixir.com
+0.0.0.0 xocgniyv.com
+0.0.0.0 sfultraight.xyz
+0.0.0.0 erdeally.com
+0.0.0.0 kjfwyivl.top
+0.0.0.0 dmtaohwdjv.top
+0.0.0.0 rcqaxbyavaogomc.com
+0.0.0.0 dcesxdvixnrwlu.com
+0.0.0.0 bakcgnxikkxw.com
+0.0.0.0 selfishmourninhabitants.com
+0.0.0.0 easyads29.pro
+0.0.0.0 mkwndnfyqjxrw.com
+0.0.0.0 rcxocdfgvur.com
+0.0.0.0 clcknads.pro
+0.0.0.0 ksiywrjwvkmat.com
+0.0.0.0 swottedfra.com
+0.0.0.0 awigglespouter.cam
+0.0.0.0 sinewedretore.casa
+0.0.0.0 meatilywoman.cam
+0.0.0.0 monsy.com
+0.0.0.0 pcrfwtio.xyz
