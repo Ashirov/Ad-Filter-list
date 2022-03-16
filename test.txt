@@ -1,9 +1,0 @@
-
-# Good: 0.0.0.0 doubleclick.net$third-party
-# Bad: /banner.jpg (should be in general_url.txt)
-# Bad: 0.0.0.0 adssubdomain.legitwebsite.com (should be in adservers_firstparty.txt)
-#
-#
-#
-netflix.com
-adjaranet.com
